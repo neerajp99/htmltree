@@ -48,3 +48,6 @@ a:hover {
     color: #3498db;
     transition: .3s all ease-in-out;
 }
+.fa-3x{
+   padding-left: 50%;
+}
